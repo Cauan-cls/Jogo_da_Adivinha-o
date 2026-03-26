@@ -30,9 +30,6 @@ Aplicação de princípios como SRP, OCP, LSP, ISP e DIP.
 ---
 ## ▶️ Como executar
 
-None
-
-None
 1. Instale o Python
 2. Execute o arquivo:
 ```bash
